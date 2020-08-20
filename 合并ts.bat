@@ -13,7 +13,7 @@ echo 开始合并
 
 for %%i in ("%cd%") do set filename=%%~ni
 :: echo "copy /b %~dp0*.ts %~dp0%filename%.ts"
-call copy /b %~dp0*.ts %~dp0%filename%.ts
+call copy /b "%~dp0"*.ts "%~dp0"%filename%.ts
 
 echo.
 echo 合并完成
