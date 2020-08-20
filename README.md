@@ -1,6 +1,8 @@
 # m3u8_download
 #### m3u8加密ts下载，仅针对于加密方式为 QINIU-PROTECTION-10 的视频解密。其他格式未测试.
 
+![m3u8](https://github.com/Myron1024/m3u8_download/blob/master/screenshot/m3u8.png?raw=true)
+
 文章链接 https://www.cnblogs.com/myron1024/p/13532379.html
 
 ## 使用方法
